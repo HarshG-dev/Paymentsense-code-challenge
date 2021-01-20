@@ -232,5 +232,11 @@ button.disabled {
     color: #006938;
 }
 
+.card-location p {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
 
 
